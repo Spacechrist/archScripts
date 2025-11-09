@@ -1,2 +1,2 @@
 # archScripts
-Scripts for my Arch+Hyprlands setup on my laptop
+Scripts for my Arch+Hyprlands setup
